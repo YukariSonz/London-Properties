@@ -69,7 +69,7 @@ public class GoogleMapAPI
         //Then it take the latitude and longitude
         "&markers=color:blue%7Clabel:H%7C"+latitude+","+longitude+
         //The key for the API users
-        "&key=AIzaSyCTNff-b9b5ZqeebxTarCVn1sabK3E4ZCI";
+        "&key=SomeKeyOfAPIHere";
         // load the web page
         webEngine.load(mapUrl);
         //add the web view to the scene
