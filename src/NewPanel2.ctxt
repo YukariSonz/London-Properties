@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=NewPanel2
-comment0.text=\r\n\ In\ Panel\ 2\ ,\ it\ will\ probide\ a\ interative\ map\ with\ the\ minimum\ and\ maximum\ range\ provided\ in\ Panel\ 1\ \r\n\r\n\ Zhenjie\ Jiang\ K1764072,\ Tao\ Lin\ K1763808,\ Yilei\ Liang\ K1764097,\ \ Bonian\ Hu\ K1764139\ \r\n\ Version\ 1.0\r\n
+comment0.text=\r\n\ In\ Panel\ 2\ ,\ it\ will\ probide\ a\ interative\ map\ with\ the\ minimum\ and\ maximum\ range\ provided\ in\ Panel\ 1\ \r\n\r\n\ Zhenjie\ Jiang,\ Tao\ Lin,\ Yilei\ Liang,\ \ Bonian\ Hu\r\n\ Version\ 1.0\r\n
 comment1.params=minValue\ maxValue
 comment1.target=javafx.scene.layout.BorderPane\ start(java.lang.String,\ java.lang.String)
 comment1.text=\r\n\ Start\ a\ panel\ 2.\r\n

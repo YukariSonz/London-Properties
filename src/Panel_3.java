@@ -17,7 +17,7 @@ import javafx.scene.text.*;
 /**
  * Panel_3 statistic panel
  * 
- * Zhenjie Jiang K1764072, Tao Lin K1763808, Yilei Liang K1764097,  Bonian Hu K1764139 
+ * Zhenjie Jiang, Tao Lin, Yilei Liang,  Bonian Hu 
  * Version 1.0
  */
 public class Panel_3 

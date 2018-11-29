@@ -15,7 +15,7 @@ import javafx.scene.control.ScrollPane;
  * In this pane, the GUI will display the details of the specific property.
  * If the user is connected to the network and able to access google, the location on the google map will also be displayed here.
  *
- * Zhenjie Jiang K1764072, Tao Lin K1763808, Yilei Liang K1764097,  Bonian Hu K1764139 
+ * Zhenjie Jiang, Tao Lin, Yilei Liang,  Bonian Hu 
  * Version 1.0
  */
 public class DisplayProperty 

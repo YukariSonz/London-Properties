@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=MarkerButton
-comment0.text=\r\n\ Make\ a\ marker\ button\ with\ the\ image\ we\ selected\ \r\n\r\n\ Zhenjie\ Jiang\ K1764072,\ Tao\ Lin\ K1763808,\ Yilei\ Liang\ K1764097,\ \ Bonian\ Hu\ K1764139\ \r\n\ Version\ 1.0\r\n
+comment0.text=\r\n\ Make\ a\ marker\ button\ with\ the\ image\ we\ selected\ \r\n\r\n\ Zhenjie\ Jiang\ ,\ Tao\ Lin,\ Yilei\ Liang\ ,\ \ Bonian\ Hu\ \r\n\ Version\ 1.0\r\n
 comment1.params=size\ nameOfNeighbourhood
 comment1.target=javafx.scene.control.Button\ makeButton(int,\ java.lang.String)
 numComments=2

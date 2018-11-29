@@ -15,7 +15,7 @@ import java.net.URISyntaxException;
  * As the location of the marker of each neighbourhood is stored in a CSV file, so a CSV reader is needed
  * to read the X & Y position of the marker
  *
- * Zhenjie Jiang K1764072, Tao Lin K1763808, Yilei Liang K1764097,  Bonian Hu K1764139 
+ * Zhenjie Jiang, Tao Lin, Yilei Liang,  Bonian Hu 
  * Version 1.0
  */
 public class LocationInfoReader

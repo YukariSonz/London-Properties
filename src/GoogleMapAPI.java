@@ -31,7 +31,7 @@ import javafx.scene.layout.BorderPane;
  * In this class, it will return a borderpane with the google map that show the location 
  * with given latitude and longitude
  *
- * Zhenjie Jiang K1764072, Tao Lin K1763808, Yilei Liang K1764097,  Bonian Hu K1764139 
+ * Zhenjie Jiang , Tao Lin , Yilei Liang,  Bonian Hu  
  * version 1.0
  */
 public class GoogleMapAPI
@@ -69,7 +69,7 @@ public class GoogleMapAPI
         //Then it take the latitude and longitude
         "&markers=color:blue%7Clabel:H%7C"+latitude+","+longitude+
         //The key for the API users
-        "&key=SomeKeyOfAPIHere";
+        "&key=SomeKeyHere";
         // load the web page
         webEngine.load(mapUrl);
         //add the web view to the scene

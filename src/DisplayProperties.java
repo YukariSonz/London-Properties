@@ -20,7 +20,7 @@ import java.util.Comparator;
  * Display all properties in specific neighbourhood
  * Bug Found: When too many property need to be displayed, there will be a out of memory expection.
  *
- * Zhenjie Jiang K1764072, Tao Lin K1763808, Yilei Liang K1764097,  Bonian Hu K1764139 
+ * Zhenjie Jiang, Tao Lin , Yilei Liang ,  Bonian Hu 
  * Version 1.0
  */
 public class DisplayProperties 
