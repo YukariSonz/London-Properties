@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=GoogleMapAPI
-comment0.text=\r\n\ In\ this\ class,\ it\ will\ return\ a\ borderpane\ with\ the\ google\ map\ that\ show\ the\ location\ \r\n\ with\ given\ latitude\ and\ longitude\r\n\r\n\ Zhenjie\ Jiang\ K1764072,\ Tao\ Lin\ K1763808,\ Yilei\ Liang\ K1764097,\ \ Bonian\ Hu\ K1764139\ \r\n\ version\ 1.0\r\n
-comment1.params=latitude\ longitude
-comment1.target=javafx.scene.layout.BorderPane\ start(java.lang.String,\ java.lang.String)
-numComments=2
