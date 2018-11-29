@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LocationInfoReader
+comment0.text=\r\n\ As\ the\ location\ of\ the\ marker\ of\ each\ neighbourhood\ is\ stored\ in\ a\ CSV\ file,\ so\ a\ CSV\ reader\ is\ needed\r\n\ to\ read\ the\ X\ &\ Y\ position\ of\ the\ marker\r\n\r\n\ Zhenjie\ Jiang\ K1764072,\ Tao\ Lin\ K1763808,\ Yilei\ Liang\ K1764097,\ \ Bonian\ Hu\ K1764139\ \r\n\ Version\ 1.0\r\n
+comment1.params=
+comment1.target=LocationInfoReader()
+comment1.text=\r\n\ Nothing\ here\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ loadInfo()
+comment2.text=\r\n\ Similar\ to\ the\ Class\ AirbnbDataReader,\ read\ the\ X\ &\ Y\ position\ of\ each\ neighbourhood\r\n
+numComments=3

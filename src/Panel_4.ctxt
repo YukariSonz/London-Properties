@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Panel_4
+comment0.text=\r\n\ Panel\ 4\ is\ the\ registion\ panel.\ Users\ need\ to\ create\ a\ account\ in\ order\ to\ \r\n\ book\ the\ room.\r\n\r\n\ Zhenjie\ Jiang\ K1764072,\ Tao\ Lin\ K1763808,\ Yilei\ Liang\ K1764097,\ \ Bonian\ Hu\ K1764139\ \r\n\ Version\ 1.0\r\n
+comment1.params=
+comment1.target=javafx.scene.layout.BorderPane\ start()
+comment1.text=\r\n\ start\ panel\ 4\r\n
+comment2.params=
+comment2.target=javafx.scene.layout.GridPane\ center()
+comment2.text=\r\n\ Set\ the\ text\ field\ in\ the\ center\r\n
+comment3.params=
+comment3.target=javafx.scene.layout.BorderPane\ bottom()
+comment3.text=\r\n\ create\ the\ submit\ button\ in\ the\ bottom\r\n
+comment4.params=
+comment4.target=boolean\ isValid()
+comment4.text=\r\n\ check\ whether\ the\ input\ from\ *\ is\ null\r\n
+comment5.params=
+comment5.target=void\ buttonAction()
+comment5.text=\r\n\ the\ action\ afterthe\ button\ clicks\r\n
+comment6.params=
+comment6.target=java.lang.String\ getMessage()
+comment6.text=\r\n\ print\ successful\ message\r\n
+comment7.params=
+comment7.target=javafx.scene.layout.BorderPane\ top()
+comment7.text=\r\n\ set\ top\ of\ the\ Pane\r\n
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Panel_1
+comment0.text=\r\n\ Write\ a\ description\ of\ JavaFX\ class\ Panel_1\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=javafx.scene.layout.BorderPane\ welcomePane()
+comment3.params=
+comment3.target=javafx.scene.layout.BorderPane\ bottom()
+comment4.params=
+comment4.target=javafx.scene.layout.BorderPane\ top()
+comment5.params=
+comment5.target=void\ popUp()
+comment5.text=\r\n\ Pop\ up\ message,\ when\ user\ input\ invalid\ values\r\n
+comment6.params=
+comment6.target=void\ valueCheck()
+comment6.text=\r\n\ Check\ if\ the\ min\ price\ is\ smaller\ or\ bigger\ than\ max\ price\r\n
+comment7.params=
+comment7.target=void\ RbuttonClick()
+comment7.text=\r\n\ action\ from\ the\ bottom\ right\ button\r\n
+comment8.params=
+comment8.target=void\ LbuttonClick()
+comment9.params=
+comment9.target=void\ panel_3()
+numComments=10

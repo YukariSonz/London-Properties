@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DisplayProperty
+comment0.text=\r\n\ In\ this\ pane,\ the\ GUI\ will\ display\ the\ details\ of\ the\ specific\ property.\r\n\ If\ the\ user\ is\ connected\ to\ the\ network\ and\ able\ to\ access\ google,\ the\ location\ on\ the\ google\ map\ will\ also\ be\ displayed\ here.\r\n\r\n\ Zhenjie\ Jiang\ K1764072,\ Tao\ Lin\ K1763808,\ Yilei\ Liang\ K1764097,\ \ Bonian\ Hu\ K1764139\ \r\n\ Version\ 1.0\r\n
+comment1.params=selfInformation
+comment1.target=javafx.scene.layout.BorderPane\ start(AirbnbListing)
+numComments=2
