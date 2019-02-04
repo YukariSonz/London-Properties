@@ -7,7 +7,11 @@ Java Compiler
 Google Map API Key
 
 # Contributors
-Yilei Liang \n
-Bonian Hu   \n
-Zhengjie Zhang  \n
-Tao Lin  \n
+Yilei Liang 
+
+Bonian Hu   
+
+Zhengjie Zhang  
+
+Tao Lin  
+
