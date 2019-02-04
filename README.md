@@ -3,7 +3,8 @@ A system that show the properties with certain condition from the Airbnb file fo
 
 
 # Stuff required
-Java Compiler
+Java Compiler (JAVA 8 or higher)
+
 Google Map API Key
 
 # Contributors
